@@ -1,0 +1,128 @@
+
+Starting simulation
+Replications per setting: 200 
+Settings: A.1, B.1, A.2, B.2, A.3, B.3, A.4, B.4 
+
+Running setting A.1 (200 replications, 23 core(s))
+  Finished A.1 in 149.9 min
+Running setting A.2 (200 replications, 23 core(s))
+  Finished A.2 in 182.1 min
+Running setting A.3 (200 replications, 23 core(s))
+  Finished A.3 in 161 min
+Running setting A.4 (200 replications, 23 core(s))
+  Finished A.4 in 179.5 min
+Running setting B.1 (200 replications, 23 core(s))
+  Finished B.1 in 324.4 min
+Running setting B.2 (200 replications, 23 core(s))
+  Finished B.2 in 347.7 min
+Running setting B.3 (200 replications, 23 core(s))
+  Finished B.3 in 312.6 min
+Running setting B.4 (200 replications, 23 core(s))
+  Finished B.4 in 339.8 min
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+   Model   Method Metric      Mean          SE
+1    A.1     RNSC     PE  4.712250  0.05464193
+2    A.1     RNSC      C  9.880000  0.03440813
+3    A.1     RNSC     IC 43.390000  6.55894721
+4    A.1      NSC     PE  4.483750  0.06015468
+5    A.1      NSC      C  9.725000  0.05842897
+6    A.1      NSC     IC 17.080000  2.60911968
+7    A.1 Logistic     PE  5.410500  0.06502955
+8    A.1 Logistic      C  8.895000  0.07906409
+9    A.1 Logistic     IC  7.265000  0.85617701
+10   A.2     RNSC     PE 10.055250  0.09610662
+11   A.2     RNSC      C  9.710000  0.05091623
+12   A.2     RNSC     IC 40.900000  4.59090755
+13   A.2      NSC     PE 14.772000  0.09959569
+14   A.2      NSC      C  8.420000  0.10805731
+15   A.2      NSC     IC 12.635000  1.45504110
+16   A.2 Logistic     PE 16.334000  0.13264357
+17   A.2 Logistic      C  7.765000  0.10099443
+18   A.2 Logistic     IC 12.245000  1.24524215
+19   A.3     RNSC     PE  5.667000  0.06295931
+20   A.3     RNSC      C  9.805000  0.04632065
+21   A.3     RNSC     IC 45.230000  4.82017697
+22   A.3      NSC     PE  8.521750  0.07243918
+23   A.3      NSC      C  8.965000  0.08864630
+24   A.3      NSC     IC  8.460000  1.13331993
+25   A.3 Logistic     PE 10.300500  0.09931296
+26   A.3 Logistic      C  8.205000  0.08862362
+27   A.3 Logistic     IC 12.245000  1.11588569
+28   A.4     RNSC     PE  9.519500  0.09359835
+29   A.4     RNSC      C  9.655000  0.04680629
+30   A.4     RNSC     IC 42.430000  4.28076515
+31   A.4      NSC     PE 14.641250  0.11277587
+32   A.4      NSC      C  8.180000  0.11135529
+33   A.4      NSC     IC  9.560000  1.09353146
+34   A.4 Logistic     PE 16.048250  0.13480601
+35   A.4 Logistic      C  7.425000  0.10714136
+36   A.4 Logistic     IC 10.975000  1.17990796
+37   B.1     RNSC     PE  7.340750  0.03731542
+38   B.1     RNSC      C 14.600000  0.05351936
+39   B.1     RNSC     IC 83.070000 10.26483119
+40   B.1      NSC     PE  7.193875  0.03464396
+41   B.1      NSC      C 14.280000  0.07372365
+42   B.1      NSC     IC 35.045000  5.87588675
+43   B.1 Logistic     PE  7.691875  0.04645503
+44   B.1 Logistic      C 13.140000  0.06726532
+45   B.1 Logistic     IC 14.920000  1.76323937
+46   B.2     RNSC     PE 16.040750  0.06070728
+47   B.2     RNSC      C 14.325000  0.06455783
+48   B.2     RNSC     IC 45.470000  6.10815794
+49   B.2      NSC     PE 21.488000  0.07013939
+50   B.2      NSC      C 13.145000  0.08094837
+51   B.2      NSC     IC  6.665000  1.23084882
+52   B.2 Logistic     PE 22.500375  0.07583486
+53   B.2 Logistic      C 12.710000  0.06966899
+54   B.2 Logistic     IC 10.925000  1.21015256
+55   B.3     RNSC     PE  8.589375  0.04238139
+56   B.3     RNSC      C 14.535000  0.05925734
+57   B.3     RNSC     IC 55.775000  7.64483416
+58   B.3      NSC     PE 11.884625  0.04753426
+59   B.3      NSC      C 13.650000  0.07885806
+60   B.3      NSC     IC  4.635000  1.01278703
+61   B.3 Logistic     PE 13.249875  0.07581581
+62   B.3 Logistic      C 12.855000  0.06959954
+63   B.3 Logistic     IC 13.280000  1.56340307
+64   B.4     RNSC     PE 15.017125  0.05861535
+65   B.4     RNSC      C 14.455000  0.06450332
+66   B.4     RNSC     IC 57.170000  6.76098068
+67   B.4      NSC     PE 21.342125  0.05912989
+68   B.4      NSC      C 13.180000  0.07981134
+69   B.4      NSC     IC  6.520000  1.18332128
+70   B.4 Logistic     PE 22.078250  0.06925898
+71   B.4 Logistic      C 12.745000  0.06535466
+72   B.4 Logistic     IC 10.805000  1.24971751
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+
+Simulation completed.
+Output directory: table1_simulation_output 
+Warning message:
+In normalizePath(OUTPUT_DIR) :
+  path[1]="table1_simulation_output": No such file or directory
+Summary: table1_simulation_output/table1_summary.csv 
+Raw results: table1_simulation_output/table1_raw_results.rds 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory

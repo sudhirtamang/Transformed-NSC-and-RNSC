@@ -4,8 +4,10 @@
 
 FUNCTIONS_FILE <- "functions.R"
 
-N_REPLICATIONS <- 5   # set to 200 for the full run
+N_REPLICATIONS <- 200
+# N_REPLICATIONS <- 5   
 MODELS <- c("A", "B")
+# ERROR_TYPES <- 1
 ERROR_TYPES <- 1:4
 
 PREDICTORS <- 2000

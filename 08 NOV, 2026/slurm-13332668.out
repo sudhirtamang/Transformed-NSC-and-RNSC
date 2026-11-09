@@ -1,0 +1,147 @@
+
+Starting simulation
+Replications per setting: 200 
+Settings: A.1, B.1, A.2, B.2, A.3, B.3, A.4, B.4 
+
+Running setting A.1 (200 replications, 15 core(s))
+  Finished A.1 in 36.2 min
+Running setting A.2 (200 replications, 15 core(s))
+  Finished A.2 in 58.7 min
+Running setting A.3 (200 replications, 15 core(s))
+  Finished A.3 in 60.8 min
+Running setting A.4 (200 replications, 15 core(s))
+  Finished A.4 in 61.5 min
+Running setting B.1 (200 replications, 15 core(s))
+  Finished B.1 in 73.4 min
+Running setting B.2 (200 replications, 15 core(s))
+  Finished B.2 in 118.5 min
+Running setting B.3 (200 replications, 15 core(s))
+  Finished B.3 in 121 min
+Running setting B.4 (200 replications, 15 core(s))
+  Finished B.4 in 122.5 min
+    Model   Method Metric      Mean          SE
+1     A.1  TF_RNSC     PE  4.603000  0.04540112
+2     A.1  TF_RNSC      C  9.915000  0.02988882
+3     A.1  TF_RNSC     IC 24.430000  3.28166453
+4     A.1     RNSC     PE  4.712250  0.05464193
+5     A.1     RNSC      C  9.880000  0.03440813
+6     A.1     RNSC     IC 43.390000  6.55894721
+7     A.1      NSC     PE  4.487750  0.05781349
+8     A.1      NSC      C  9.755000  0.05467928
+9     A.1      NSC     IC 19.420000  2.79585443
+10    A.1      Med     PE  7.437750  0.06877837
+11    A.1      Med      C  9.800000  0.03683455
+12    A.1      Med     IC 57.205000  4.14122732
+13    A.1 Logistic     PE  5.408750  0.06569730
+14    A.1 Logistic      C  8.905000  0.07880945
+15    A.1 Logistic     IC  7.480000  0.87568953
+16    A.2  TF_RNSC     PE 11.273250  0.10670186
+17    A.2  TF_RNSC      C  9.225000  0.06888834
+18    A.2  TF_RNSC     IC 30.415000  2.60619939
+19    A.2     RNSC     PE 10.055250  0.09610662
+20    A.2     RNSC      C  9.710000  0.05091623
+21    A.2     RNSC     IC 40.900000  4.59090755
+22    A.2      NSC     PE 14.838750  0.11443077
+23    A.2      NSC      C  8.420000  0.10735748
+24    A.2      NSC     IC 14.370000  2.12000889
+25    A.2      Med     PE 10.654000  0.07587129
+26    A.2      Med      C  9.730000  0.04054280
+27    A.2      Med     IC 57.260000  3.97145746
+28    A.2 Logistic     PE 16.334000  0.13765068
+29    A.2 Logistic      C  7.745000  0.10727261
+30    A.2 Logistic     IC 12.545000  1.37721585
+31    A.3  TF_RNSC     PE  6.068500  0.06686098
+32    A.3  TF_RNSC      C  9.535000  0.05439364
+33    A.3  TF_RNSC     IC 34.480000  3.29854513
+34    A.3     RNSC     PE  5.667000  0.06295931
+35    A.3     RNSC      C  9.805000  0.04632065
+36    A.3     RNSC     IC 45.230000  4.82017697
+37    A.3      NSC     PE  8.539500  0.07667935
+38    A.3      NSC      C  8.965000  0.09116154
+39    A.3      NSC     IC  9.175000  1.11001466
+40    A.3      Med     PE  7.779250  0.06771233
+41    A.3      Med      C  9.765000  0.03815961
+42    A.3      Med     IC 63.675000  4.56953500
+43    A.3 Logistic     PE 10.335500  0.10317789
+44    A.3 Logistic      C  8.170000  0.08997766
+45    A.3 Logistic     IC 12.165000  1.16290611
+46    A.4  TF_RNSC     PE 10.987500  0.11632444
+47    A.4  TF_RNSC      C  9.085000  0.06937535
+48    A.4  TF_RNSC     IC 29.260000  2.17816067
+49    A.4     RNSC     PE  9.519500  0.09359835
+50    A.4     RNSC      C  9.655000  0.04680629
+51    A.4     RNSC     IC 42.430000  4.28076515
+52    A.4      NSC     PE 14.696500  0.11238479
+53    A.4      NSC      C  8.080000  0.11261175
+54    A.4      NSC     IC  8.630000  1.13213255
+55    A.4      Med     PE 10.369500  0.08788397
+56    A.4      Med      C  9.610000  0.05481353
+57    A.4      Med     IC 60.955000  4.37889122
+58    A.4 Logistic     PE 16.138250  0.13525287
+59    A.4 Logistic      C  7.375000  0.11014780
+60    A.4 Logistic     IC 11.060000  1.23702594
+61    B.1  TF_RNSC     PE  7.317875  0.03847574
+62    B.1  TF_RNSC      C 14.600000  0.05398678
+63    B.1  TF_RNSC     IC 52.685000  7.37495619
+64    B.1     RNSC     PE  7.340750  0.03731542
+65    B.1     RNSC      C 14.600000  0.05351936
+66    B.1     RNSC     IC 83.070000 10.26483119
+67    B.1      NSC     PE  7.176250  0.03294237
+68    B.1      NSC      C 14.345000  0.06967170
+69    B.1      NSC     IC 36.545000  6.27689309
+70    B.1      Med     PE 10.209750  0.04620959
+71    B.1      Med      C 14.635000  0.04920345
+72    B.1      Med     IC 48.165000  4.94492165
+73    B.1 Logistic     PE  7.682875  0.04241144
+74    B.1 Logistic      C 13.240000  0.06808213
+75    B.1 Logistic     IC 15.715000  1.63841107
+76    B.2  TF_RNSC     PE 16.559625  0.06324001
+77    B.2  TF_RNSC      C 13.955000  0.07169782
+78    B.2  TF_RNSC     IC 33.675000  3.98914946
+79    B.2     RNSC     PE 16.040750  0.06070728
+80    B.2     RNSC      C 14.325000  0.06455783
+81    B.2     RNSC     IC 45.470000  6.10815794
+82    B.2      NSC     PE 21.460375  0.06652452
+83    B.2      NSC      C 13.155000  0.08023129
+84    B.2      NSC     IC  6.640000  1.37502928
+85    B.2      Med     PE 16.351250  0.05669852
+86    B.2      Med      C 14.450000  0.05387031
+87    B.2      Med     IC 38.450000  3.64993805
+88    B.2 Logistic     PE 22.543500  0.08278621
+89    B.2 Logistic      C 12.725000  0.07466424
+90    B.2 Logistic     IC 12.000000  1.37906093
+91    B.3  TF_RNSC     PE  9.123875  0.04756980
+92    B.3  TF_RNSC      C 14.465000  0.05797136
+93    B.3  TF_RNSC     IC 31.995000  4.34762973
+94    B.3     RNSC     PE  8.589375  0.04238139
+95    B.3     RNSC      C 14.535000  0.05925734
+96    B.3     RNSC     IC 55.775000  7.64483416
+97    B.3      NSC     PE 11.918625  0.05040913
+98    B.3      NSC      C 13.675000  0.07698381
+99    B.3      NSC     IC  6.980000  1.64756498
+100   B.3      Med     PE 10.643875  0.04389289
+101   B.3      Med      C 14.665000  0.04385764
+102   B.3      Med     IC 41.460000  4.26953589
+103   B.3 Logistic     PE 13.260000  0.07447028
+104   B.3 Logistic      C 12.865000  0.07041781
+105   B.3 Logistic     IC 12.555000  1.39245450
+106   B.4  TF_RNSC     PE 15.800375  0.06733753
+107   B.4  TF_RNSC      C 13.915000  0.07427286
+108   B.4  TF_RNSC     IC 28.560000  3.67037331
+109   B.4     RNSC     PE 15.017125  0.05861535
+110   B.4     RNSC      C 14.455000  0.06450332
+111   B.4     RNSC     IC 57.170000  6.76098068
+112   B.4      NSC     PE 21.339125  0.05770244
+113   B.4      NSC      C 13.150000  0.07917603
+114   B.4      NSC     IC  7.665000  1.58290614
+115   B.4      Med     PE 15.498875  0.05520414
+116   B.4      Med      C 14.535000  0.05154766
+117   B.4      Med     IC 45.520000  4.91140075
+118   B.4 Logistic     PE 22.008875  0.06261143
+119   B.4 Logistic      C 12.745000  0.06687478
+120   B.4 Logistic     IC  9.330000  0.98506715
+
+Simulation completed.
+Output directory: /gpfs/home/st24g/Transformed-NSC-and-RNSC/08 NOV, 2026/table1_simulation_output 
+Summary: table1_simulation_output/table1_summary.csv 
+Raw results: table1_simulation_output/table1_raw_results.rds 

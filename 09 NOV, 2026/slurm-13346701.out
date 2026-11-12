@@ -1,0 +1,350 @@
+
+Starting simulation
+Contamination levels (%): 0, 5, 10, 15 
+Replications per setting: 200 
+Settings: A.1, B.1, A.2, B.2 
+
+==================================================
+Contamination level: 0 %
+==================================================
+Running setting A.1 (200 replications, 23 core(s))
+  Finished A.1 in 31.3 min
+Running setting A.2 (200 replications, 23 core(s))
+  Finished A.2 in 52.2 min
+Running setting B.1 (200 replications, 23 core(s))
+  Finished B.1 in 68.5 min
+Running setting B.2 (200 replications, 23 core(s))
+  Finished B.2 in 108.2 min
+   Model   Method Metric      Mean         SE
+1    A.1  TF_RNSC     PE  4.603000 0.04540112
+2    A.1  TF_RNSC      C  9.915000 0.02988882
+3    A.1  TF_RNSC     IC 24.430000 3.28166453
+4    A.1     RNSC     PE  4.712250 0.05464193
+5    A.1     RNSC      C  9.880000 0.03440813
+6    A.1     RNSC     IC 43.390000 6.55894721
+7    A.1      NSC     PE  4.487750 0.05781349
+8    A.1      NSC      C  9.755000 0.05467928
+9    A.1      NSC     IC 19.420000 2.79585443
+10   A.1      Med     PE  7.437750 0.06877837
+11   A.1      Med      C  9.800000 0.03683455
+12   A.1      Med     IC 57.205000 4.14122732
+13   A.1 Logistic     PE  5.447750 0.07254724
+14   A.1 Logistic      C  8.890000 0.09127517
+15   A.1 Logistic     IC  7.990000 0.87370838
+16   A.1   NS_NSC     PE  4.494750 0.05225252
+17   A.1   NS_NSC      C  9.750000 0.04742092
+18   A.1   NS_NSC     IC 14.030000 2.61181034
+19   A.2  TF_RNSC     PE 11.273250 0.10670186
+20   A.2  TF_RNSC      C  9.225000 0.06888834
+21   A.2  TF_RNSC     IC 30.415000 2.60619939
+22   A.2     RNSC     PE 10.055250 0.09610662
+23   A.2     RNSC      C  9.710000 0.05091623
+24   A.2     RNSC     IC 40.900000 4.59090755
+25   A.2      NSC     PE 14.838750 0.11443077
+26   A.2      NSC      C  8.420000 0.10735748
+27   A.2      NSC     IC 14.370000 2.12000889
+28   A.2      Med     PE 10.654000 0.07587129
+29   A.2      Med      C  9.730000 0.04054280
+30   A.2      Med     IC 57.260000 3.97145746
+31   A.2 Logistic     PE 16.372500 0.13155179
+32   A.2 Logistic      C  7.645000 0.10294593
+33   A.2 Logistic     IC 11.880000 1.20925161
+34   A.2   NS_NSC     PE 12.022500 0.08403588
+35   A.2   NS_NSC      C  9.350000 0.06487328
+36   A.2   NS_NSC     IC 15.895000 1.87186787
+37   B.1  TF_RNSC     PE  7.304250 0.03773549
+38   B.1  TF_RNSC      C 14.650000 0.05148547
+39   B.1  TF_RNSC     IC 48.740000 6.46486927
+40   B.1     RNSC     PE  7.380125 0.03496018
+41   B.1     RNSC      C 14.590000 0.05938969
+42   B.1     RNSC     IC 81.500000 9.29228891
+43   B.1      NSC     PE  7.232250 0.03386698
+44   B.1      NSC      C 14.260000 0.07026154
+45   B.1      NSC     IC 35.830000 6.24971199
+46   B.1      Med     PE 10.195875 0.04363968
+47   B.1      Med      C 14.700000 0.04426962
+48   B.1      Med     IC 47.915000 4.97900001
+49   B.1 Logistic     PE  7.751875 0.04573209
+50   B.1 Logistic      C 13.100000 0.06762296
+51   B.1 Logistic     IC 13.735000 1.74172094
+52   B.1   NS_NSC     PE  7.365750 0.03764015
+53   B.1   NS_NSC      C 14.570000 0.05559636
+54   B.1   NS_NSC     IC 13.530000 3.12827846
+55   B.2  TF_RNSC     PE 16.626500 0.06151629
+56   B.2  TF_RNSC      C 14.030000 0.07260757
+57   B.2  TF_RNSC     IC 33.660000 3.82689793
+58   B.2     RNSC     PE 16.054625 0.06265761
+59   B.2     RNSC      C 14.430000 0.06631355
+60   B.2     RNSC     IC 54.840000 6.49958422
+61   B.2      NSC     PE 21.616250 0.06813049
+62   B.2      NSC      C 13.160000 0.08370804
+63   B.2      NSC     IC  8.310000 1.65599854
+64   B.2      Med     PE 16.284000 0.04794883
+65   B.2      Med      C 14.650000 0.04412750
+66   B.2      Med     IC 44.715000 3.75435009
+67   B.2 Logistic     PE 22.685250 0.09503276
+68   B.2 Logistic      C 12.770000 0.07979559
+69   B.2 Logistic     IC 14.440000 1.70175257
+70   B.2   NS_NSC     PE 19.133125 0.06058134
+71   B.2   NS_NSC      C 14.130000 0.07377475
+72   B.2   NS_NSC     IC 15.305000 2.57222503
+
+==================================================
+Contamination level: 5 %
+==================================================
+Running setting A.1 (200 replications, 23 core(s))
+  Finished A.1 in 36.7 min
+Running setting A.2 (200 replications, 23 core(s))
+  Finished A.2 in 51.4 min
+Running setting B.1 (200 replications, 23 core(s))
+  Finished B.1 in 77.4 min
+Running setting B.2 (200 replications, 23 core(s))
+  Finished B.2 in 108.9 min
+   Model   Method Metric      Mean         SE
+1    A.1  TF_RNSC     PE  4.818250 0.05218369
+2    A.1  TF_RNSC      C  9.845000 0.03479841
+3    A.1  TF_RNSC     IC 18.870000 1.73195376
+4    A.1     RNSC     PE  4.870750 0.04936313
+5    A.1     RNSC      C  9.905000 0.02414102
+6    A.1     RNSC     IC 35.200000 4.45030630
+7    A.1      NSC     PE  4.683500 0.05483428
+8    A.1      NSC      C  9.715000 0.04504465
+9    A.1      NSC     IC 17.945000 2.36525517
+10   A.1      Med     PE  7.819500 0.08000141
+11   A.1      Med      C  9.780000 0.03694353
+12   A.1      Med     IC 71.650000 5.28634227
+13   A.1 Logistic     PE  5.715250 0.06996787
+14   A.1 Logistic      C  8.990000 0.07298034
+15   A.1 Logistic     IC 10.540000 1.09406439
+16   A.1   NS_NSC     PE  4.619750 0.05539136
+17   A.1   NS_NSC      C  9.690000 0.05130949
+18   A.1   NS_NSC     IC 12.410000 1.81365826
+19   A.2  TF_RNSC     PE 11.749500 0.11256209
+20   A.2  TF_RNSC      C  9.000000 0.07957172
+21   A.2  TF_RNSC     IC 29.570000 2.55668903
+22   A.2     RNSC     PE 10.319000 0.09846852
+23   A.2     RNSC      C  9.560000 0.05520178
+24   A.2     RNSC     IC 37.855000 3.90396910
+25   A.2      NSC     PE 15.222000 0.10918361
+26   A.2      NSC      C  7.945000 0.11054854
+27   A.2      NSC     IC  9.880000 1.37668234
+28   A.2      Med     PE 11.309250 0.09461711
+29   A.2      Med      C  9.540000 0.05483644
+30   A.2      Med     IC 63.025000 5.39762854
+31   A.2 Logistic     PE 16.720750 0.14374490
+32   A.2 Logistic      C  7.335000 0.11192188
+33   A.2 Logistic     IC 10.310000 1.19010557
+34   A.2   NS_NSC     PE 12.409500 0.11201130
+35   A.2   NS_NSC      C  9.000000 0.08623912
+36   A.2   NS_NSC     IC 15.585000 1.87785665
+37   B.1  TF_RNSC     PE  7.724375 0.04519411
+38   B.1  TF_RNSC      C 14.580000 0.05368810
+39   B.1  TF_RNSC     IC 45.430000 5.82166941
+40   B.1     RNSC     PE  7.673750 0.04067804
+41   B.1     RNSC      C 14.555000 0.05789329
+42   B.1     RNSC     IC 78.170000 9.87105334
+43   B.1      NSC     PE  7.598125 0.04720549
+44   B.1      NSC      C 14.255000 0.07634802
+45   B.1      NSC     IC 33.775000 6.35431020
+46   B.1      Med     PE 10.452750 0.04946250
+47   B.1      Med      C 14.630000 0.04824039
+48   B.1      Med     IC 49.865000 4.35419671
+49   B.1 Logistic     PE  8.372125 0.05147759
+50   B.1 Logistic      C 13.120000 0.07317632
+51   B.1 Logistic     IC 13.210000 1.57717052
+52   B.1   NS_NSC     PE  7.791250 0.04190267
+53   B.1   NS_NSC      C 14.500000 0.06098027
+54   B.1   NS_NSC     IC 11.365000 1.94286709
+55   B.2  TF_RNSC     PE 16.881375 0.06309690
+56   B.2  TF_RNSC      C 13.965000 0.07207530
+57   B.2  TF_RNSC     IC 31.160000 3.41751651
+58   B.2     RNSC     PE 16.243750 0.06558845
+59   B.2     RNSC      C 14.370000 0.06585731
+60   B.2     RNSC     IC 45.170000 5.17871615
+61   B.2      NSC     PE 21.909375 0.07093760
+62   B.2      NSC      C 13.070000 0.08462450
+63   B.2      NSC     IC  8.240000 1.22755712
+64   B.2      Med     PE 16.542500 0.05256367
+65   B.2      Med      C 14.570000 0.05185504
+66   B.2      Med     IC 45.280000 3.95036516
+67   B.2 Logistic     PE 22.934250 0.08725726
+68   B.2 Logistic      C 12.705000 0.07595208
+69   B.2 Logistic     IC 12.350000 1.51082775
+70   B.2   NS_NSC     PE 19.430500 0.06025182
+71   B.2   NS_NSC      C 14.020000 0.07399579
+72   B.2   NS_NSC     IC  9.805000 1.26780183
+
+==================================================
+Contamination level: 10 %
+==================================================
+Running setting A.1 (200 replications, 23 core(s))
+  Finished A.1 in 38.3 min
+Running setting A.2 (200 replications, 23 core(s))
+  Finished A.2 in 53.8 min
+Running setting B.1 (200 replications, 23 core(s))
+  Finished B.1 in 76.1 min
+Running setting B.2 (200 replications, 23 core(s))
+  Finished B.2 in 107.2 min
+   Model   Method Metric      Mean         SE
+1    A.1  TF_RNSC     PE  5.363000 0.06488126
+2    A.1  TF_RNSC      C  9.790000 0.03443003
+3    A.1  TF_RNSC     IC 31.420000 3.59544911
+4    A.1     RNSC     PE  5.244750 0.05990507
+5    A.1     RNSC      C  9.820000 0.03381891
+6    A.1     RNSC     IC 40.550000 4.55686985
+7    A.1      NSC     PE  5.119000 0.06009055
+8    A.1      NSC      C  9.685000 0.04515607
+9    A.1      NSC     IC 19.230000 2.60043203
+10   A.1      Med     PE  8.157000 0.07417303
+11   A.1      Med      C  9.655000 0.04572009
+12   A.1      Med     IC 58.340000 4.08148436
+13   A.1 Logistic     PE  6.493500 0.08826162
+14   A.1 Logistic      C  8.770000 0.08644573
+15   A.1 Logistic     IC 13.005000 1.27937833
+16   A.1   NS_NSC     PE  4.965250 0.06312845
+17   A.1   NS_NSC      C  9.665000 0.05174226
+18   A.1   NS_NSC     IC 14.440000 2.05340311
+19   A.2  TF_RNSC     PE 12.496250 0.12310929
+20   A.2  TF_RNSC      C  8.770000 0.07916334
+21   A.2  TF_RNSC     IC 29.175000 2.35498442
+22   A.2     RNSC     PE 10.924750 0.10350272
+23   A.2     RNSC      C  9.500000 0.06179883
+24   A.2     RNSC     IC 48.940000 4.08844824
+25   A.2      NSC     PE 15.910250 0.13282791
+26   A.2      NSC      C  7.730000 0.11898017
+27   A.2      NSC     IC 10.595000 1.42370628
+28   A.2      Med     PE 11.752500 0.09305585
+29   A.2      Med      C  9.510000 0.05802010
+30   A.2      Med     IC 65.975000 4.21717854
+31   A.2 Logistic     PE 17.474250 0.16740668
+32   A.2 Logistic      C  7.160000 0.12122490
+33   A.2 Logistic     IC 12.775000 1.37333613
+34   A.2   NS_NSC     PE 12.887500 0.09913365
+35   A.2   NS_NSC      C  8.860000 0.08911626
+36   A.2   NS_NSC     IC 16.820000 1.99239458
+37   B.1  TF_RNSC     PE  8.269125 0.05121973
+38   B.1  TF_RNSC      C 14.445000 0.06208177
+39   B.1  TF_RNSC     IC 41.350000 5.50564238
+40   B.1     RNSC     PE  8.083250 0.05006030
+41   B.1     RNSC      C 14.520000 0.06259064
+42   B.1     RNSC     IC 58.280000 6.95797926
+43   B.1      NSC     PE  8.061375 0.05276905
+44   B.1      NSC      C 14.280000 0.07129809
+45   B.1      NSC     IC 23.230000 3.80050056
+46   B.1      Med     PE 10.874500 0.05484931
+47   B.1      Med      C 14.525000 0.05349001
+48   B.1      Med     IC 50.000000 4.50793271
+49   B.1 Logistic     PE  9.103875 0.05658966
+50   B.1 Logistic      C 13.300000 0.07332724
+51   B.1 Logistic     IC 15.345000 1.65296441
+52   B.1   NS_NSC     PE  8.485000 0.05169337
+53   B.1   NS_NSC      C 14.375000 0.06197645
+54   B.1   NS_NSC     IC 13.555000 3.00567886
+55   B.2  TF_RNSC     PE 17.488250 0.07660016
+56   B.2  TF_RNSC      C 13.795000 0.07274154
+57   B.2  TF_RNSC     IC 27.835000 2.79346669
+58   B.2     RNSC     PE 16.641000 0.06985246
+59   B.2     RNSC      C 14.195000 0.07390660
+60   B.2     RNSC     IC 49.190000 6.57894613
+61   B.2      NSC     PE 22.418875 0.07566529
+62   B.2      NSC      C 12.845000 0.08239429
+63   B.2      NSC     IC  7.715000 1.13149027
+64   B.2      Med     PE 16.988000 0.06082813
+65   B.2      Med      C 14.495000 0.05111692
+66   B.2      Med     IC 45.150000 3.67763682
+67   B.2 Logistic     PE 23.575500 0.09487511
+68   B.2 Logistic      C 12.635000 0.08056880
+69   B.2 Logistic     IC 13.570000 1.43352729
+70   B.2   NS_NSC     PE 19.886125 0.06526081
+71   B.2   NS_NSC      C 13.915000 0.07151536
+72   B.2   NS_NSC     IC  7.560000 0.98278243
+
+==================================================
+Contamination level: 15 %
+==================================================
+Running setting A.1 (200 replications, 23 core(s))
+  Finished A.1 in 40 min
+Running setting A.2 (200 replications, 23 core(s))
+  Finished A.2 in 52.5 min
+Running setting B.1 (200 replications, 23 core(s))
+  Finished B.1 in 81.5 min
+Running setting B.2 (200 replications, 23 core(s))
+  Finished B.2 in 109.3 min
+   Model   Method Metric      Mean         SE
+1    A.1  TF_RNSC     PE  5.893000 0.06516315
+2    A.1  TF_RNSC      C  9.605000 0.05393906
+3    A.1  TF_RNSC     IC 28.195000 2.54329049
+4    A.1     RNSC     PE  5.709750 0.06220781
+5    A.1     RNSC      C  9.765000 0.04070824
+6    A.1     RNSC     IC 38.045000 3.67380581
+7    A.1      NSC     PE  5.637000 0.06649634
+8    A.1      NSC      C  9.385000 0.06484520
+9    A.1      NSC     IC 18.650000 2.42293014
+10   A.1      Med     PE  8.743750 0.08236374
+11   A.1      Med      C  9.495000 0.05888303
+12   A.1      Med     IC 59.465000 3.95341515
+13   A.1 Logistic     PE  6.929750 0.08535626
+14   A.1 Logistic      C  8.535000 0.08109722
+15   A.1 Logistic     IC 11.755000 1.17816179
+16   A.1   NS_NSC     PE  5.374750 0.06294789
+17   A.1   NS_NSC      C  9.515000 0.06379045
+18   A.1   NS_NSC     IC 13.310000 1.58339991
+19   A.2  TF_RNSC     PE 13.575750 0.15663868
+20   A.2  TF_RNSC      C  8.495000 0.09898924
+21   A.2  TF_RNSC     IC 28.500000 2.27464725
+22   A.2     RNSC     PE 11.411000 0.11488314
+23   A.2     RNSC      C  9.315000 0.06857395
+24   A.2     RNSC     IC 38.440000 3.21655298
+25   A.2      NSC     PE 16.766250 0.15098543
+26   A.2      NSC      C  7.385000 0.12832072
+27   A.2      NSC     IC 13.090000 1.61338917
+28   A.2      Med     PE 12.542500 0.10052797
+29   A.2      Med      C  9.205000 0.07028209
+30   A.2      Med     IC 63.370000 4.00331088
+31   A.2 Logistic     PE 18.103000 0.17662158
+32   A.2 Logistic      C  6.965000 0.11126895
+33   A.2 Logistic     IC 11.495000 1.13480783
+34   A.2   NS_NSC     PE 13.811500 0.12482335
+35   A.2   NS_NSC      C  8.715000 0.09546961
+36   A.2   NS_NSC     IC 21.325000 2.80011609
+37   B.1  TF_RNSC     PE  8.877750 0.05659374
+38   B.1  TF_RNSC      C 14.540000 0.05391227
+39   B.1  TF_RNSC     IC 41.520000 4.81333971
+40   B.1     RNSC     PE  8.597375 0.05910992
+41   B.1     RNSC      C 14.460000 0.06213941
+42   B.1     RNSC     IC 50.120000 5.84450762
+43   B.1      NSC     PE  8.727625 0.05320430
+44   B.1      NSC      C 14.130000 0.06992818
+45   B.1      NSC     IC 19.915000 3.81103118
+46   B.1      Med     PE 11.399500 0.05976607
+47   B.1      Med      C 14.510000 0.05758542
+48   B.1      Med     IC 49.745000 4.57102518
+49   B.1 Logistic     PE  9.997375 0.06198441
+50   B.1 Logistic      C 13.315000 0.07038212
+51   B.1 Logistic     IC 14.610000 1.68589761
+52   B.1   NS_NSC     PE  9.193750 0.05565924
+53   B.1   NS_NSC      C 14.330000 0.06224849
+54   B.1   NS_NSC     IC 10.125000 1.83193252
+55   B.2  TF_RNSC     PE 18.033500 0.07925977
+56   B.2  TF_RNSC      C 13.765000 0.07331953
+57   B.2  TF_RNSC     IC 35.235000 3.13965540
+58   B.2     RNSC     PE 17.165625 0.07804969
+59   B.2     RNSC      C 14.185000 0.06727932
+60   B.2     RNSC     IC 41.995000 5.27219643
+61   B.2      NSC     PE 22.935625 0.08495758
+62   B.2      NSC      C 12.730000 0.08197009
+63   B.2      NSC     IC  7.005000 1.13919432
+64   B.2      Med     PE 17.586875 0.06770000
+65   B.2      Med      C 14.270000 0.06289099
+66   B.2      Med     IC 47.125000 3.69774437
+67   B.2 Logistic     PE 24.194750 0.09369217
+68   B.2 Logistic      C 12.490000 0.07956856
+69   B.2 Logistic     IC 13.630000 1.53577620
+70   B.2   NS_NSC     PE 20.589875 0.07526025
+71   B.2   NS_NSC      C 13.700000 0.08113516
+72   B.2   NS_NSC     IC 11.615000 1.94138579
+
+Simulation completed.
+Output directory: /gpfs/home/st24g/Transformed-NSC-and-RNSC/09 NOV, 2026/contamination_simulation_output 
+One folder per level, e.g.: contamination_simulation_output/contam_0pct 
+Combined summary: contamination_simulation_output/contamination_summary_all.csv 
